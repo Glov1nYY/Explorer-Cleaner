@@ -6,10 +6,6 @@ A Windows system tray utility that cleans File Explorer caches with one click, f
 
 ## 截图 / Screenshots
 
-> 待补充 / TODO
-
-## 功能 / Features
-
 - **6 项清理**：快速访问历史、缩略图缓存、图标缓存、资源管理器历史、DNS 缓存、临时文件
 - **系统托盘**：开机自启，常驻右下角，不占任务栏
 - **定时自动清理**：可配置 15 分钟 / 30 分钟 / 1 小时 / 2 小时间隔

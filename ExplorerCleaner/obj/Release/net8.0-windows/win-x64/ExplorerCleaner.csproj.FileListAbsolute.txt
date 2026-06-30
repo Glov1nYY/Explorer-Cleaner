@@ -1,0 +1,14 @@
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\bin\Release\net8.0-windows\win-x64\ExplorerCleaner.exe
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\bin\Release\net8.0-windows\win-x64\ExplorerCleaner.deps.json
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\bin\Release\net8.0-windows\win-x64\ExplorerCleaner.runtimeconfig.json
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\bin\Release\net8.0-windows\win-x64\ExplorerCleaner.dll
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\bin\Release\net8.0-windows\win-x64\ExplorerCleaner.pdb
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.AssemblyInfoInputs.cache
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.AssemblyInfo.cs
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.csproj.CoreCompileInputs.cache
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.dll
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\refint\ExplorerCleaner.dll
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.pdb
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ExplorerCleaner.genruntimeconfig.cache
+C:\Users\96324\Desktop\cleaner\ExplorerCleaner\obj\Release\net8.0-windows\win-x64\ref\ExplorerCleaner.dll

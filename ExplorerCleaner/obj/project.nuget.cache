@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3mUdR6bZa0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\96324\\Desktop\\cleaner\\ExplorerCleaner\\ExplorerCleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96324\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.28\\microsoft.net.illink.tasks.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
